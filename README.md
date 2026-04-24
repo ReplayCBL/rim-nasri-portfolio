@@ -1,4 +1,4 @@
-### 🏎️ Racing Game Prototype (Unreal Engine 5)
+**Racing Game Prototype (Unreal Engine 5)**
 
 A 3D racing prototype developed in Unreal Engine 5, focused on building responsive vehicle controls and core gameplay systems.
 
@@ -15,7 +15,7 @@ The project explores how to create a smooth driving experience while implementin
 
 ---
 
-## 🎮 Controls
+**Controls**
 
 | Action        | Key |
 |--------------|------|
